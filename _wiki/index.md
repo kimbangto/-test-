@@ -9,7 +9,10 @@ regenerate: true
 
 ## wiki items
 
-  * [[빔을 배우다]]
+  * [[Vim을 배우다]]
+    * [[Vimwiki를 배우다]]
+  * [[언어]]
+    * [[Clojure]]
 
 ---
 
