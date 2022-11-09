@@ -9,7 +9,7 @@ regenerate: true
 
 ## wiki items
 
-* [[vimwiki]]
+[[how-to]]
 
 ---
 
