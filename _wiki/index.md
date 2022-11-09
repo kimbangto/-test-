@@ -9,7 +9,7 @@ regenerate: true
 
 ## wiki items
 
-[[how-to]]
+  * [[빔을 배우다]]
 
 ---
 
