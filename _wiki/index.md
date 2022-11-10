@@ -11,6 +11,7 @@ regenerate: true
 
   * [[Vim을 배우다]]
     * [[Vimwiki를 배우다]]
+    * [[Vim에서 Typescript 개발하기]]
   * [[언어]]
     * [[Clojure]]
 
