@@ -16,6 +16,9 @@ regenerate: true
     * [[Clojure]]
   * [[독서]]
     * [[역행자]] 
+  * [[코드]]
+    * [[Graphql]]
+    * [[tmux]]
 
 ---
 
