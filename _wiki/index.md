@@ -9,9 +9,7 @@ regenerate: true
 
 ## wiki items
 
-  * [[Vim을 배우다]]
-    * [[Vimwiki를 배우다]]
-    * [[Vim에서 Typescript 개발하기]]
+  * [[vim]]
   * [[언어]]
     * [[Clojure]]
   * [[독서]]
@@ -19,6 +17,9 @@ regenerate: true
   * [[코드]]
     * [[Graphql]]
     * [[tmux]]
+    * [[Clojure]]
+      * [[http]]
+      * [[기본문법]]
 
 ---
 

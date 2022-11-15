@@ -3,11 +3,11 @@ layout  : wiki
 title   : 
 summary : 
 date    : 2022-11-09 22:42:15 +0900
-updated : 2022-11-10 22:31:15 +0900
+updated : 2022-11-15 22:20:10 +0900
 tag     : 
 toc     : true
 public  : true
-parent  : 
+parent  : [[/vim]]
 latex   : false
 ---
 * TOC
@@ -18,6 +18,7 @@ latex   : false
 
 # 기능들 살펴보기
 ## 상위 카테고리
+## 부모 설정
 ## ctags 설정
 ## utterances
 ## sitemap.html

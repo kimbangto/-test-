@@ -3,11 +3,11 @@ layout  : wiki
 title   : GraphQL
 summary : 사용해가며 추가되는 지식
 date    : 2022-11-15 15:03:25 +0900
-updated : 2022-11-15 15:25:01 +0900
-tag     : graphql,apollo,lacinia
+updated : 2022-11-15 22:04:33 +0900
+tag     : graphql apollo lacinia
 toc     : true
 public  : true
-parent  : 코드
+parent  : [[코드]]
 latex   : false
 ---
 * TOC
