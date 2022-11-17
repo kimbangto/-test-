@@ -3,11 +3,11 @@ layout  : wiki
 title   : Clojure
 summary : Clojure 정리
 date    : 2022-11-09 22:33:23 +0900
-updated : 2022-11-15 22:04:39 +0900
-tag     : Clojure jvm
+updated : 2022-11-17 09:20:47 +0900
+tag     : Clojure
 toc     : true
 public  : true
-parent  : [[코드]]
+parent  : [[code]]
 latex   : false
 ---
 * TOC
