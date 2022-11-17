@@ -14,12 +14,14 @@ regenerate: true
     * [[Clojure]]
   * [[독서]]
     * [[역행자]] 
-  * [[code]]
-    * [[Graphql]]
-    * [[tmux]]
-    * [[Clojure]]
-      * [[http]]
-      * [[기본문법]]
+  * [[/code]]
+    * [[/code/graphql]]
+    * [[/code/tmux]]
+    * [[/code/clojure]]
+      * [[/code/clojure/http]]
+      * [[/code/clojure/기본문법]]
+  * [[/work]]
+    * [[/work/2022]]
 
 ---
 

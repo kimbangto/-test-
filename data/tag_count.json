@@ -1,9 +1,5 @@
 [
  {
-  "name": "apollo",
-  "size": 1
- },
- {
   "name": "Clojure",
   "size": 1
  },
@@ -12,16 +8,12 @@
   "size": 2
  },
  {
-  "name": "graphql",
-  "size": 1
- },
- {
   "name": "integrat",
   "size": 1
  },
  {
   "name": "lacinia",
-  "size": 2
+  "size": 1
  },
  {
   "name": "leiningen",
