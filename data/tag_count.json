@@ -32,6 +32,10 @@
   "size": 1
  },
  {
+  "name": "svelte",
+  "size": 1
+ },
+ {
   "name": "terminal",
   "size": 1
  },
